@@ -1,10 +1,12 @@
-# **20-CodePredators**
 
-## Work Updates :
+## Abstract :
+<p>Kisan Setu is a web - app that would help farmers and government officials related to agriculture. This app uses a machine learning algorithm that takes the location of the farmer as an input and generates an output of crop names that are suitable for the area. The recommendations are made by taking into account various parameters like rainfall, water availability, season-wise crop production in all Indian states and Union Territories.
+In Kisan Setu, we aim to help the farmers by using modern computational technique of machine learning to give them intelligent analysis of their farm locations using insights from huge amount of data collected by the Indian Government. Farmers have to give their location in the form of State name and District name. The app then uses these as input parameters for an algorithm that recommends a list of crops that will be beneficial for the region. Also it takes images of diseases infected corps, and run a model to predict the diseases.
+Not only that we have also focused to predict & analyze the crop quality so that farmers get the true price of their yield by the contractors and they can download the analysis report of their particular crop from our application. And the application would also predict the weeds(undesirable plants) that interfere with growth of other crop plants thus affecting human activities using open CV.</p>
 
 ### PPT Link: [https://docs.google.com/presentation/d/1KxU9dkPCCIHPwoqqw_j9-pIPZ5mcDaBGgVrIaDl25Ag/edit?usp=sharing](https://docs.google.com/presentation/d/1KxU9dkPCCIHPwoqqw_j9-pIPZ5mcDaBGgVrIaDl25Ag/edit?usp=sharing)
 
-### Yield Prediciton Model
+### User Interface (Dashboard)
 ![yield-prediciton-model Output - 1](https://res.cloudinary.com/devdemo/image/upload/v1666475315/VCET%20Hack/1_ienk8y.jpg)
 
 ![yield-prediciton-model Output - 2](https://res.cloudinary.com/devdemo/image/upload/v1666475309/VCET%20Hack/2_ytrlwc.jpg)
@@ -30,9 +32,8 @@ Thank you for considering contributing for the greater good for farmers!
 - that's it happy coding..
 
 ### Diseases Prediciton Model
-![diseases-prediciton-model Output - 1](https://res.cloudinary.com/devdemo/image/upload/v1666475308/VCET%20Hack/7_uw6ggb.jpg)
-
 ![diseases-prediciton-model Output - 2](https://res.cloudinary.com/devdemo/image/upload/v1666475309/VCET%20Hack/6_vubbc3.jpg)
+![diseases-prediciton-model Output - 1](https://res.cloudinary.com/devdemo/image/upload/v1666475308/VCET%20Hack/7_uw6ggb.jpg)
 
 The API returns the json response in the following format:
 
