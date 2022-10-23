@@ -21,7 +21,7 @@ from utils.model import ResNet9
 
 # -------------------------LOADING THE TRAINED MODELS -----------------------------------------------
 
-# Loading plant disease classification model
+# Loading plant disease classification model.
 
 disease_classes = ['Apple___Apple_scab',
                    'Apple___Black_rot',
